@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module std_buffer (
+module buffer (
     input  wire in,
     output wire out
 );
