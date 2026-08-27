@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module mux_4to1_dataflow (
+module mux_4to1 (
     input  wire       i0,
     input  wire       i1,
     input  wire       i2,
